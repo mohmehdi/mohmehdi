@@ -79,16 +79,14 @@ Experienced in game programming and passionate about machine learning and comput
 
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=benymaxparsa&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohmehdi&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmehdi&theme=dracula&hide_border=true" />
   </a>
 </p>
 
 [![Mohmehdi github activity graph](https://activity-graph.herokuapp.com/graph?username=mohmehdi&theme=dracula	)](https://github.com/mohmehdi/github-readme-activity-graph)
 
 <!--
-**benymaxparsa/benymaxparsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - #### IDEs:
   <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/> <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"/> <img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"/> <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>	<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
 
