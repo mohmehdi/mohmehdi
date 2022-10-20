@@ -77,20 +77,20 @@ Experienced in game programming and passionate about machine learning and comput
 <p h2 align="center">
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohmehdi&count_private=true&show_icons=true&theme=gotham&hide_border=true&layout=compact)](https://github.com/mohmehdi/github-readme-stats)
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohmehdi&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmehdi&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohmehdi&count_private=true&show_icons=true&theme=gotham&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmehdi&theme=gotham&hide_border=true" />
   </a>
-</p>
+</p>  
 
-[![Mohmehdi github activity graph](https://activity-graph.herokuapp.com/graph?username=mohmehdi&theme=react-dark	)](https://github.com/mohmehdi/github-readme-activity-graph)
+
+[![Mohmehdi github activity graph](https://activity-graph.herokuapp.com/graph?username=mohmehdi&theme=gotham&count_private=true 	)](https://github.com/mohmehdi/github-readme-activity-graph)
 
 <!--
 - #### IDEs:
   <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/> <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"/> <img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"/> <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>	<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohmehdi&theme=dracula&exclude_repo=One-of-a-Kind,Bull-Cow-Game-UE4,My-Playground-Unreal-Engine,Intro-to-GameDev)
 
 Here are some ideas to get you started:
 
