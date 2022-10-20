@@ -84,7 +84,7 @@ Experienced in game programming and passionate about machine learning and comput
   </a>
 </p>
 
-[![Mohmehdi github activity graph](https://activity-graph.herokuapp.com/graph?username=mohmehdi&theme=dracula	)](https://github.com/mohmehdi/github-readme-activity-graph)
+[![Mohmehdi github activity graph](https://activity-graph.herokuapp.com/graph?username=mohmehdi&theme=react-dark	)](https://github.com/mohmehdi/github-readme-activity-graph)
 
 <!--
 - #### IDEs:
