@@ -3,7 +3,6 @@
 
 <p align="center">
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-1abedb.svg?style=flat&logo=github">
-<img alt="Github Viewers" src="https://visitor-badge.glitch.me/badge?page_id=mohmehdi.mohmehdi">
 <img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
 </p>
 
@@ -78,16 +77,12 @@ Experienced in game programming and passionate about machine learning and comput
 
 
 
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohmehdi&count_private=true&show_icons=true&theme=react&hide_border=true" />
+<p align="center">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmehdi&theme=react&hide_border=true" />
   </a>
 </p>  
 
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmehdi&count_private=true&show_icons=true&theme=react&hide_border=true&layout=compact" />
-<p h2 align="center">
 
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohmehdi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
