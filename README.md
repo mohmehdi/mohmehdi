@@ -77,11 +77,11 @@ Experienced in game programming and passionate about machine learning and comput
 
 
 
-<p align="center">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmehdi&theme=react&hide_border=true" />
+<div align="center">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmehdi&theme=react&hide_border=true"/>
+    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohmehdi&theme=react&hide_border=true"/>
   </a>
-</p>  
-
+</div>  
 
 
 
