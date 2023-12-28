@@ -6,14 +6,6 @@
 <img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
 </p>
 
- <br />
-<p align="center">
-  <h1 align="center"> Bio </h1>
-<p h2 align="center">
-
-Hi,
-I'm an undergrad Computer Engineering student.
-Experienced in game programming and passionate about machine learning and computer graphics
   
  <br />
 <p align="center">
